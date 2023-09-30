@@ -1,0 +1,14 @@
+D:\IPZ\FibonacciNumbers\bin\Debug\net6.0\FibonacciNumbers.exe
+D:\IPZ\FibonacciNumbers\bin\Debug\net6.0\FibonacciNumbers.deps.json
+D:\IPZ\FibonacciNumbers\bin\Debug\net6.0\FibonacciNumbers.runtimeconfig.json
+D:\IPZ\FibonacciNumbers\bin\Debug\net6.0\FibonacciNumbers.dll
+D:\IPZ\FibonacciNumbers\bin\Debug\net6.0\FibonacciNumbers.pdb
+D:\IPZ\FibonacciNumbers\obj\Debug\net6.0\FibonacciNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\IPZ\FibonacciNumbers\obj\Debug\net6.0\FibonacciNumbers.AssemblyInfoInputs.cache
+D:\IPZ\FibonacciNumbers\obj\Debug\net6.0\FibonacciNumbers.AssemblyInfo.cs
+D:\IPZ\FibonacciNumbers\obj\Debug\net6.0\FibonacciNumbers.csproj.CoreCompileInputs.cache
+D:\IPZ\FibonacciNumbers\obj\Debug\net6.0\FibonacciNumbers.dll
+D:\IPZ\FibonacciNumbers\obj\Debug\net6.0\refint\FibonacciNumbers.dll
+D:\IPZ\FibonacciNumbers\obj\Debug\net6.0\FibonacciNumbers.pdb
+D:\IPZ\FibonacciNumbers\obj\Debug\net6.0\FibonacciNumbers.genruntimeconfig.cache
+D:\IPZ\FibonacciNumbers\obj\Debug\net6.0\ref\FibonacciNumbers.dll
